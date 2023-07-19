@@ -18,7 +18,7 @@ Step 7: Test your API<br>
 **<h3> Step 1: Create a DynamoDB table</h3>**
 1. Open the DynamoDB console.
 2. Choose Create table.
-3. For Table name, enter http-crud-tutorial-items.
+3. For Table name, enter http-crud-table.
 4. For Partition key, enter id.
 5. Choose Create table.
 
